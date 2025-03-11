@@ -911,7 +911,7 @@ form button {
 		   mask-composite: exclude,add;
    -webkit-mask-repeat:repeat-x;
    background:linear-gradient(#ffb940 0 0) left/0% 100% #ddd no-repeat;
-   animation: l20 3.1s infinite linear;
+   animation: l20 3.18s infinite linear;
  }
  @keyframes l20 {
 	 90%,100% {background-size:100% 100%}
