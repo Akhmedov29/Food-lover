@@ -118,7 +118,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
   const message = {
     loading: "Loading...",
-    success: "Thanks for choosing us!",
+    success: "Thanks for contact us!",
     failure: "Something went wrong!",
   };
 
